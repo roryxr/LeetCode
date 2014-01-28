@@ -1,7 +1,7 @@
 mport java.util.HashSet;
 public class FindLongestSubstring {
 	public static void main(String[] args) {
-		String testString = "bbbbbb";
+		String testString = "bacssasdbas";
 		String result = findLongestSubstring(testString);
 		System.out.println("The longest substring of \"" + testString + "\" is \"" + result + "\"");
 	}
